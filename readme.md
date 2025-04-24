@@ -2,10 +2,10 @@
 
 A comprehensive Windows application for managing and starting DayZ game servers. This launcher provides an intuitive interface for server configuration, mod management, and server monitoring.
 
-![DayZ Server Launcher](screenshsots/Screenshot1.png)
-![DayZ Server Launcher](screenshsots/Screenshot2.png)
-![DayZ Server Launcher](screenshsots/Screenshot3.png)
-![DayZ Server Launcher](screenshsots/Screenshot4.png)
+![DayZ Server Launcher](https://github.com/Yarpii/DayZLauncherv1/blob/main/screenshots/Screenshot1.png)
+![DayZ Server Launcher](https://github.com/Yarpii/DayZLauncherv1/blob/main/screenshots/Screenshot2.png)
+![DayZ Server Launcher](https://github.com/Yarpii/DayZLauncherv1/blob/main/screenshots/Screenshot3.png)
+![DayZ Server Launcher](https://github.com/Yarpii/DayZLauncherv1/blob/main/screenshots/Screenshot4.png)
 
 ## Features
 
