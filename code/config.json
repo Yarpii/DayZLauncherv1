@@ -1,0 +1,34 @@
+{
+  "ServerSettings": {
+    "ServerPath": "C:\\Path\\To\\DayZServer",
+    "Executable": "DayZServer_x64.exe",
+    "ModsFolder": "C:\\Path\\To\\DayZServer\\Mods",
+    "ConfigFile": "serverDZ.cfg",
+    "ProfilesFolder": "ServerProfiles"
+  },
+  "LaunchOptions": {
+    "DefaultParameters": "-config=serverDZ.cfg -profiles=ServerProfiles",
+    "MaxMemory": 8192,
+    "CpuCount": 4,
+    "NoLogs": false
+  },
+  "ModSettings": {
+    "LoadAllMods": false,
+    "PreferredMods": [],
+    "BackupBeforeUpdate": true,
+    "BackupFolder": "ModBackups"
+  },
+  "MaintenanceSettings": {
+    "EnableScheduledRestarts": false,
+    "RestartTimes": [ "06:00", "12:00", "18:00", "00:00" ],
+    "RestartWarningMinutes": 5,
+    "AutoBackup": true,
+    "MaxBackups": 10,
+    "BackupFolder": "ServerBackups"
+  },
+  "UISettings": {
+    "MinimizeToTray": true,
+    "StartMinimized": false,
+    "DarkMode": false
+  }
+}
